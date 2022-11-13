@@ -1,0 +1,102 @@
+.navbar-brand img{
+    height: 90px;
+   }
+   .a1 img{
+    height: 800px;
+    width: 100%;
+   }
+   .a2 h1{
+    color: red;
+   }
+   .a3 img{
+    height: 100px;
+   }
+   .a4 img{
+    margin-top: 40px;
+    height: 500px;
+    width: 100%;
+   }
+   .a5 img{
+    margin-top: 70px;
+    height: 300px;
+    width: 100%;
+   }
+   .a6{
+    margin-top: 70px;
+    background-color: red;
+    height: 120px;
+   }
+   .a7{
+    margin-top: 50px;
+   }
+   .a8{
+    margin-top: 50px;
+   }
+   .b1 img{
+    height: 80px;
+
+      }
+    .b1{
+        margin-top: 160px;
+        margin-top: 40px;
+        background-color: beige;
+    }
+    .c1 img{
+      width: 100%;
+      height: 500px;
+
+    }
+    .c2{
+      margin: 40px;
+    }
+    .c3 img{
+      height: 380px;
+
+    }
+    .c3{
+      background-color: aquamarine;
+    }
+    .c4{
+      margin: 70px;
+    }
+    
+    .c5 img{
+      height: 120px;
+      margin-top: 60px;
+    }
+    .c5 {
+      background-color: aquamarine;
+    }
+    .c6 img {
+      height: 400px;
+      width: 100%;
+    
+
+    }
+    .c6{
+      margin: 90px;
+    }
+    .c7{
+      margin: 60px;
+      background-color: blanchedalmond;
+    }
+   .c7 img{
+    margin-top: 70px;
+   }
+   .c9{
+    margin: 90px;
+   }
+   .d1{
+    margin-top:90px;
+    width: 100%;
+   }
+   .d2{ 
+       margin: 60px;
+   }
+   .d3 img{
+    height: 420px;
+    width: 100%;
+   }  
+   .d3 ul p{
+    text-align: left;
+   }
